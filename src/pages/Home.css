@@ -1,0 +1,30 @@
+.Home-search-con{
+    margin-top: 20px;
+}
+
+
+.Home-search-wrap{
+    border: 1px solid black;
+    width: 330px;
+    height: 38px;
+    margin: auto;
+    justify-content: space-between;
+    display: flex;
+}
+
+.Home-search{
+    width: 270px;
+    border: 0px;
+    margin-left: 10px;
+    display: flex;
+}
+
+.Home-search-btn{
+background-image: url('/Users/hnm/Desktop/basket-front/public/img/search.svg');
+background-position: center center;
+background-size: 24px;
+background-repeat: no-repeat;
+width: 38px;
+height: 38px;
+margin-right: 5px;
+}

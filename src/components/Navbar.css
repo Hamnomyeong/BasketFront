@@ -1,0 +1,32 @@
+.Nav-con{
+    background-color: black;
+    height: 50px;
+    width: 390px;
+    display: flex;
+    position: fixed;
+    justify-content: space-between; 
+    align-items: center;
+    bottom: 0; 
+    left: 0;
+    right: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.Nav-Barname{
+    color: white;
+    margin-bottom: 5px;
+}
+
+
+.Nav-menu{
+background: none;
+border: 0px solid;
+}
+
+
+.Nav-menu img{
+    height: 24px;
+    }
+    

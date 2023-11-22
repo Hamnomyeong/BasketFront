@@ -1,0 +1,35 @@
+.Banner-Wrap{
+    max-width: 100vw;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    top: 0; 
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.BannerImage1{
+    width: 100vh;
+    height: 170px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url('/Users/hnm/Desktop/basket-front/public/img/Banner01.svg');
+}
+
+.BannerImage2{
+    width: 100vh;
+    height: 170px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url('/Users/hnm/Desktop/basket-front/public/img/Banner02.svg');
+}
+
+.BannerImage3{
+    width: 100vh;
+    height: 170px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url('/Users/hnm/Desktop/basket-front/public/img/Banner03.svg');
+}
+
